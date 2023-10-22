@@ -13,15 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github Stats
+### 👨🏻‍💻 Github Analytics
 
 <p align="center">
 <a href="https://github.com/anhbanlinhle">
-  <img height="221em" src="https://github-readme-stats.vercel.app/api?username=anhbanlinhle&show_icons=true&theme=neon&show=prs_merged,prs_merged_percentage&border_radius=6&rank_icon=github"/>
-  <img height="221em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhbanlinhle&langs_count=10&layout=compact&theme=neon"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=anhbanlinhle&show_icons=true&theme=aura&show=prs_merged,prs_merged_percentage&border_radius=6&rank_icon=github"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhbanlinhle&langs_count=10&layout=compact&theme=aura"/>
 </a>
 </p>
 
+<!--
 ### Contributions
 
 <p align="center">
@@ -30,6 +31,6 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-
+-->
 
 
