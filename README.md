@@ -13,12 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Basic Github stats
+### Github Stats
 
-![anhbanlinhle's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhbanlinhle&show_icons=true&theme=neon&show=prs_merged,prs_merged_percentage&border_radius=6&rank_icon=github) 
+<p align="center">
+<a href="https://github.com/anhbanlinhle">
+  <img height="275em" src="https://github-readme-stats.vercel.app/api?username=anhbanlinhle&show_icons=true&theme=neon&show=prs_merged,prs_merged_percentage&border_radius=6&rank_icon=github"/>
+  <img height="275em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhbanlinhle&langs_count=10&layout=compact&theme=neon"/>
+</a>
+</p>
 
-### Top languages
+### Contributions
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhbanlinhle&langs_count=10&layout=compact&theme=neon)
+<p align="center">
+<a href="https://github.com/anhbanlinhle">
+  <img height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=anhbanlinhle&theme=neon"/>
+</a>
+</p>
+
+
 
 
