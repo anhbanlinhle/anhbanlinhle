@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **anhbanlinhle/anhbanlinhle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![anhbanlinhle's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhbanlinhle)](https://github.com/anhbanlinhle/github-readme-stats)
+### Basic Github stats
+
+![anhbanlinhle's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhbanlinhle&show_icons=true&theme=neon&show=prs_merged,prs_merged_percentage&border_radius=6&rank_icon=github) 
+
+### Top languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhbanlinhle&langs_count=10&layout=compact&theme=neon)
+
+
