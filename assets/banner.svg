@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+<title id="title">Viet-Linh (Marco) Le-Viet · Full-Stack Developer</title>
+<desc id="desc">I build React Native apps, ExpressJS services, data crawlers &amp; scrapers, Next.js platforms, Chromium extensions, fluid Reanimated UIs, BLE-connected products, AI-powered tools.</desc>
+<style>
+text{font-family:'JetBrains Mono','SF Mono',SFMono-Regular,ui-monospace,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+.w{opacity:0;animation:tick 20.8s infinite both}
+.w0{opacity:1}
+@keyframes tick{
+0%{opacity:0;transform:translateY(18px);animation-timing-function:cubic-bezier(.34,1.56,.64,1)}
+1.635%{opacity:1;transform:translateY(0)}
+11.538%{opacity:1;transform:translateY(0);animation-timing-function:cubic-bezier(.55,0,1,.45)}
+12.5%,100%{opacity:0;transform:translateY(-18px)}
+}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 2s cubic-bezier(0,0,.2,1) infinite}
+@keyframes ping{75%,100%{transform:scale(2.4);opacity:0}}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 48s linear infinite}
+.rev{animation-duration:72s;animation-direction:reverse}
+@keyframes spin{to{transform:rotate(360deg)}}
+.float{animation:float 6s ease-in-out infinite}
+@keyframes float{50%{transform:translateY(-6px)}}
+.d0{animation:d0 14s linear infinite}@keyframes d0{to{transform:translateX(-300px)}}
+.d1{animation:d1 18s linear infinite}@keyframes d1{to{transform:translateX(-380px)}}
+.d2{animation:d2 22s linear infinite}@keyframes d2{to{transform:translateX(-480px)}}
+.d3{animation:d3 20s linear infinite}@keyframes d3{to{transform:translateX(-440px)}}
+.d4{animation:d4 16s linear infinite}@keyframes d4{to{transform:translateX(-360px)}}
+.d5{animation:d5 13s linear infinite}@keyframes d5{to{transform:translateX(-280px)}}
+@media (prefers-reduced-motion:reduce){.w,.ping,.spin,.float,.d0,.d1,.d2,.d3,.d4,.d5{animation:none}}
+</style>
+<defs>
+<clipPath id="card"><rect width="1280" height="320" rx="24"/></clipPath>
+<radialGradient id="glow-blue" cx="1040" cy="150" r="380" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#3B82F6" stop-opacity="0.3"/><stop offset="0.7" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow-violet" cx="1230" cy="330" r="280" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0.24"/><stop offset="0.7" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade-x"><stop offset="0.4" stop-color="#fff" stop-opacity="0"/><stop offset="0.68" stop-color="#fff"/></linearGradient>
+<mask id="waves-mask"><rect width="1280" height="320" fill="url(#fade-x)"/></mask>
+<linearGradient id="edge" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="0.22"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.06"/><stop offset="1" stop-color="#fff" stop-opacity="0.16"/></linearGradient>
+<clipPath id="tick"><rect x="-8" y="192" width="900" height="44"/></clipPath>
+<filter id="lift" x="-60%" y="-60%" width="220%" height="220%"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000" flood-opacity="0.6"/><feDropShadow dx="0" dy="0" stdDeviation="22" flood-color="#3B82F6" flood-opacity="0.35"/></filter>
+
+<linearGradient id="lm-tile" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#151d3b"/><stop offset="1" stop-color="#0b0b10"/></linearGradient>
+<radialGradient id="lm-blue" cx="14" cy="12" r="34" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#3b82f6" stop-opacity="0.6"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+<radialGradient id="lm-violet" cx="54" cy="56" r="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0.55"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<radialGradient id="lm-bent" cx="34" cy="34" r="30" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#60a5fa" stop-opacity="0.75"/><stop offset="0.6" stop-color="#8b5cf6" stop-opacity="0.35"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0.2"/></radialGradient>
+<linearGradient id="lm-body" x1="12" y1="8" x2="52" y2="58" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="0.5"/><stop offset="0.45" stop-color="#fff" stop-opacity="0.08"/><stop offset="1" stop-color="#fff" stop-opacity="0.22"/></linearGradient>
+<linearGradient id="lm-rim" x1="12" y1="8" x2="52" y2="58" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="1"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.3"/><stop offset="1" stop-color="#fff" stop-opacity="0.7"/></linearGradient>
+<g id="lm-l0" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M17 12V46H35"/></g>
+<g id="lm-l1" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M29 18V52H47"/></g>
+<mask id="lm-body0"><use href="#lm-l0" stroke="#fff" stroke-width="7.4"/></mask>
+<mask id="lm-body1"><use href="#lm-l1" stroke="#fff" stroke-width="7.4"/></mask>
+<mask id="lm-rim0"><use href="#lm-l0" stroke="#fff" stroke-width="9"/><use href="#lm-l0" stroke="#000" stroke-width="7.4"/></mask>
+<mask id="lm-rim1"><use href="#lm-l1" stroke="#fff" stroke-width="9"/><use href="#lm-l1" stroke="#000" stroke-width="7.4"/></mask>
+</defs>
+
+<g clip-path="url(#card)">
+<rect width="1280" height="320" fill="#0B0B10"/>
+<rect width="1280" height="320" fill="url(#glow-blue)"/>
+<rect width="1280" height="320" fill="url(#glow-violet)"/>
+<g mask="url(#waves-mask)" fill="none" stroke-width="1.5">
+<path class="d0" d="M-300 70q75 -16 150 0t150 0t150 0t150 0t150 0t150 0t150 0t150 0t150 0t150 0t150 0t150 0t150 0t150 0" stroke="#60A5FA" stroke-opacity="0.16"/>
+<path class="d1" d="M-380 104q95 -28 190 0t190 0t190 0t190 0t190 0t190 0t190 0t190 0t190 0t190 0t190 0t190 0" stroke="#8B5CF6" stroke-opacity="0.24"/>
+<path class="d2" d="M-480 140q120 -44 240 0t240 0t240 0t240 0t240 0t240 0t240 0t240 0t240 0t240 0t240 0" stroke="#3B82F6" stroke-opacity="0.34"/>
+<path class="d3" d="M-440 176q110 -36 220 0t220 0t220 0t220 0t220 0t220 0t220 0t220 0t220 0t220 0t220 0" stroke="#22D3EE" stroke-opacity="0.22"/>
+<path class="d4" d="M-360 212q90 -24 180 0t180 0t180 0t180 0t180 0t180 0t180 0t180 0t180 0t180 0t180 0t180 0t180 0" stroke="#8B5CF6" stroke-opacity="0.2"/>
+<path class="d5" d="M-280 248q70 -14 140 0t140 0t140 0t140 0t140 0t140 0t140 0t140 0t140 0t140 0t140 0t140 0t140 0t140 0t140 0" stroke="#60A5FA" stroke-opacity="0.14"/>
+</g>
+</g>
+<rect x="0.75" y="0.75" width="1278.5" height="318.5" rx="23.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+
+<g fill="none" stroke-linecap="round" stroke-width="1.2">
+<circle class="spin" cx="1062" cy="160" r="106" pathLength="360" stroke="#60A5FA" stroke-opacity="0.4" stroke-dasharray="1 5"/>
+<g class="spin rev"><circle cx="1062" cy="160" r="134" pathLength="360" stroke="#8B5CF6" stroke-opacity="0.35" stroke-dasharray="44 7 2 7"/><circle cx="1062" cy="26" r="3.5" fill="#22D3EE" stroke="none"/></g>
+</g>
+<g filter="url(#lift)"><g class="float"><g transform="translate(988 86) scale(2.3125)">
+<rect width="64" height="64" rx="16" fill="url(#lm-tile)"/>
+<rect width="64" height="64" rx="16" fill="url(#lm-blue)"/>
+<rect width="64" height="64" rx="16" fill="url(#lm-violet)"/>
+<rect x="0.25" y="0.25" width="63.5" height="63.5" rx="15.75" fill="none" stroke="#fff" stroke-opacity="0.14" stroke-width="0.5"/>
+<use href="#lm-l0" transform="translate(0.8 1.6)" stroke="#000" stroke-opacity="0.5" stroke-width="9"/>
+<use href="#lm-l1" transform="translate(0.8 1.6)" stroke="#000" stroke-opacity="0.5" stroke-width="9"/>
+<g>
+<rect width="64" height="64" fill="url(#lm-bent)" mask="url(#lm-body0)"/>
+<use href="#lm-l0" stroke="url(#lm-body)" stroke-width="7.4"/>
+<rect width="64" height="64" fill="url(#lm-rim)" mask="url(#lm-rim0)"/>
+<g mask="url(#lm-body0)"><use href="#lm-l0" transform="translate(-1.5 -1.5)" stroke="#fff" stroke-opacity="0.75" stroke-width="1.3"/></g>
+<g mask="url(#lm-rim0)"><use href="#lm-l0" transform="translate(0.9 0.9)" stroke="#22d3ee" stroke-opacity="0.45" stroke-width="1"/></g>
+</g>
+<g style="mix-blend-mode:screen">
+<rect width="64" height="64" fill="url(#lm-bent)" mask="url(#lm-body1)"/>
+<use href="#lm-l1" stroke="url(#lm-body)" stroke-width="7.4"/>
+<rect width="64" height="64" fill="url(#lm-rim)" mask="url(#lm-rim1)"/>
+<g mask="url(#lm-body1)"><use href="#lm-l1" transform="translate(-1.5 -1.5)" stroke="#fff" stroke-opacity="0.75" stroke-width="1.3"/></g>
+<g mask="url(#lm-rim1)"><use href="#lm-l1" transform="translate(0.9 0.9)" stroke="#22d3ee" stroke-opacity="0.45" stroke-width="1"/></g>
+</g>
+</g></g></g>
+
+<g transform="translate(72 0)">
+<circle class="ping" cx="6" cy="92" r="5" fill="#34D399"/>
+<circle cx="6" cy="92" r="5" fill="#34D399"/>
+<text x="24" y="98" font-size="17" letter-spacing="3.2" fill="#94A3B8">FULL-STACK DEVELOPER</text>
+<text y="162" font-size="54" font-weight="800" letter-spacing="-2.2" fill="#F8FAFC">Viet-Linh (Marco) Le-Viet</text>
+<text y="222" font-size="28" fill="#94A3B8">I build</text>
+<g clip-path="url(#tick)" font-size="28">
+<text class="w w0" y="222" style="animation-delay:-0.5s"><tspan fill-opacity="0">I build&#160;</tspan><tspan fill="#60A5FA">React Native apps</tspan></text>
+<text class="w w1" y="222" style="animation-delay:2.1s"><tspan fill-opacity="0">I build&#160;</tspan><tspan fill="#60A5FA">ExpressJS services</tspan></text>
+<text class="w w2" y="222" style="animation-delay:4.7s"><tspan fill-opacity="0">I build&#160;</tspan><tspan fill="#60A5FA">data crawlers &amp; scrapers</tspan></text>
+<text class="w w3" y="222" style="animation-delay:7.3s"><tspan fill-opacity="0">I build&#160;</tspan><tspan fill="#60A5FA">Next.js platforms</tspan></text>
+<text class="w w4" y="222" style="animation-delay:9.9s"><tspan fill-opacity="0">I build&#160;</tspan><tspan fill="#60A5FA">Chromium extensions</tspan></text>
+<text class="w w5" y="222" style="animation-delay:12.5s"><tspan fill-opacity="0">I build&#160;</tspan><tspan fill="#60A5FA">fluid Reanimated UIs</tspan></text>
+<text class="w w6" y="222" style="animation-delay:15.1s"><tspan fill-opacity="0">I build&#160;</tspan><tspan fill="#60A5FA">BLE-connected products</tspan></text>
+<text class="w w7" y="222" style="animation-delay:17.7s"><tspan fill-opacity="0">I build&#160;</tspan><tspan fill="#60A5FA">AI-powered tools</tspan></text>
+</g>
+</g>
+</svg>
